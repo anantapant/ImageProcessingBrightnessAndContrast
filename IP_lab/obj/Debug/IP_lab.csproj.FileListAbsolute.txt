@@ -1,0 +1,9 @@
+D:\Ananta\IP_lab\IP_lab\bin\Debug\IP_lab.exe.config
+D:\Ananta\IP_lab\IP_lab\bin\Debug\IP_lab.exe
+D:\Ananta\IP_lab\IP_lab\bin\Debug\IP_lab.pdb
+D:\Ananta\IP_lab\IP_lab\obj\Debug\IP_lab.csprojResolveAssemblyReference.cache
+D:\Ananta\IP_lab\IP_lab\obj\Debug\IP_lab.Form1.resources
+D:\Ananta\IP_lab\IP_lab\obj\Debug\IP_lab.Properties.Resources.resources
+D:\Ananta\IP_lab\IP_lab\obj\Debug\IP_lab.csproj.GenerateResource.Cache
+D:\Ananta\IP_lab\IP_lab\obj\Debug\IP_lab.exe
+D:\Ananta\IP_lab\IP_lab\obj\Debug\IP_lab.pdb
